@@ -300,7 +300,7 @@ Need help? We're here for you!
 
 | Channel | Link |
 |---------|------|
-| 🐛 Issues | [GitHub Issues](https://github.com/SheershProjects/syntalytix-php/issues) |
+| 🐛 Issues | [GitHub Issues](https://github.com/BScIT-444-5045-Sheersh/Syntalytix-Learning-Management-System/issues) |
 | 📧 Email | syntalytix@gmail.com |
 
 
