@@ -129,7 +129,7 @@ INSERT INTO users (name, email, password, role_id, status) VALUES
 
 ```
 lms-php/
-├── 📂 api/                          # REST API Endpoints
+├── 📂 api/                          
 │   ├── 🔐 auth.php                  # Authentication APIs
 │   ├── 👑 admin.php                 # Admin operations
 │   ├── 👨‍🏫 teacher.php              # Teacher operations
