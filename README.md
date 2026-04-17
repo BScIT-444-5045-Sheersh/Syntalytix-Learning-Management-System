@@ -250,7 +250,7 @@ The application features a sophisticated dual-theme system:
 
 ---
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 <div align="center">
 
@@ -264,6 +264,7 @@ The application features a sophisticated dual-theme system:
 </div>
 
 ---
+-->
 
 ## 🤝 Contributing
 
